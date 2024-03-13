@@ -1,0 +1,40 @@
+[
+  {
+    "title": "UI\u52a8\u6548\u8bbe\u8ba1",
+    "id": "3949694",
+    "classnode": "1-2",
+    "roomnum": "3609",
+    "roomid": "106",
+    "signinbegin": "07:50:00",
+    "signinend": "08:10:00",
+    "teachernum": "200202",
+    "teachername": "\u97e9\u5efa\u654f",
+    "type": 1,
+    "status": "1",
+    "showStatus": 3
+  },
+  {
+    "title": "\u4e60\u8fd1\u5e73\u65b0\u65f6\u4ee3\u4e2d\u56fd\u7279\u8272\u793e\u4f1a\u4e3b\u4e49\u601d\u60f3\u6982\u8bba",
+    "id": "3971683",
+    "classnode": "3-4",
+    "roomnum": "5114",
+    "roomid": "119",
+    "signinbegin": "09:50:00",
+    "signinend": "10:30:00",
+    "teachernum": "202143",
+    "teachername": "\u53e4\u5c0f\u521a",
+    "type": 1,
+    "status": "1",
+    "showStatus": 3
+  },
+  {
+    "title": "\u67e5\u5bdd",
+    "id": "12811108",
+    "dormnum": "3417",
+    "signinbegin": "22:00:00",
+    "signinend": "23:30:00",
+    "type": 2,
+    "status": "0",
+    "showStatus": 1
+  }
+]
